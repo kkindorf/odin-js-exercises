@@ -13,6 +13,7 @@ const removeFromArray = function() {
       array.splice(indexToRemove, 1);
     }    
   }
+  
   return array;
 }
 
